@@ -43,6 +43,35 @@ import Trianglify from 'react-trianglify'
 import Trianglify from 'react-trianglify'
 ```
 
+```tsx
+import Trianglify from 'react-trianglify'
+```
+```angular
+import Trianglify from 'react-trianglify'
+```
+```cpp
+import Trianglify from 'react-trianglify'
+```
+```css
+import Trianglify from 'react-trianglify'
+```
+```html
+import Trianglify from 'react-trianglify'
+```
+```java
+import Trianglify from 'react-trianglify'
+```
+```julia
+import Trianglify from 'react-trianglify'
+```
+```markdown
+import Trianglify from 'react-trianglify'
+```
+```php
+import Trianglify from 'react-trianglify'
+```
+
+
 ## Props
 
 By taking `output`, you can use any [trianglify][trianglify-url-options] allowed options.
