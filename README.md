@@ -35,6 +35,14 @@ ReactDOM.render(
 import Trianglify from 'react-trianglify'
 ```
 
+```jsx
+import Trianglify from 'react-trianglify'
+```
+
+```tsx
+import Trianglify from 'react-trianglify'
+```
+
 ## Props
 
 By taking `output`, you can use any [trianglify][trianglify-url-options] allowed options.
