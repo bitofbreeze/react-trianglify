@@ -22,7 +22,7 @@ You must have `react` and `trianglify` already installed on your project.
 
 ## Usage
 
-```js
+```ts
 import Trianglify from 'react-trianglify'
 
 ReactDOM.render(
